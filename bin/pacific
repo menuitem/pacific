@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pacific'
+# Pacific.init
+Pacific.readCommandParams
